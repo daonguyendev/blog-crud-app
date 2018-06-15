@@ -62,5 +62,4 @@ public class CategoryApiController {
 //                    return ResponseEntity.ok().build();
 //                }).orElseThrow(() -> new ResourceNotFoundException("Category not found with id " + categoryId));
 //    }
-//
 }
